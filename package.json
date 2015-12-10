@@ -5,6 +5,6 @@
     "express": "^4.13.3"
   },
     "publishConfig": {
-	"registry": "http://localhost:8081/artifactory/api/npm/npm-local"
+	"registry": "http://localhost:8081/artifactory/api/npm/npm-local2"
 	}
 }
